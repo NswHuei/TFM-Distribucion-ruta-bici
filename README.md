@@ -1,7 +1,7 @@
 # TFM-Distribucion-ruta-bici
 ![Mapa de Clusters de MiBici](images/mapa_cluster.png)
 
-## Project Summary
+## Resumen del Proyecto
 🎯 Objetivo: Analizar los patrones de uso del sistema MiBici para identificar oportunidades de optimización del servicio.
 
 
@@ -14,7 +14,7 @@
 
 💡 Recomendación: Se propone una redistribución dinámica de bicicletas y la implementación de tarifas diferenciadas y promociones para equilibrar el uso del sistema en toda la ciudad.
 
-## Cargo
+## Mi Contribución
 En este proyecto, mis responsabilidades principales fueron el trabajo técnico en la clusterización geoespacial y el enriquecimiento del dataset. Esto incluyó la experimentación y evaluación de diferentes algoritmos (K-Means, DBSCAN y Jerárquico) para encontrar el modelo más adecuado, así como el desarrollo del código principal para el análisis.
 
 ![Mapa de Porcentaje de viajes entre clusters](images/viajes.png)
