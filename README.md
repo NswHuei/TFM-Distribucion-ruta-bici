@@ -26,8 +26,11 @@
 En este proyecto, mis responsabilidades principales fueron el trabajo técnico en la clusterización geoespacial y el enriquecimiento del dataset. Esto incluyó la experimentación y evaluación de diferentes algoritmos (K-Means, DBSCAN y Jerárquico) para encontrar el modelo más adecuado, así como el desarrollo del código principal para el análisis.
 
 ![Mapa de Porcentaje de viajes entre clusters](images/viajes.png)
+
 **Figura 4: Matriz de Flujo Inter-Cluster.** La matriz demuestra que más del 84% de los viajes se originan y terminan dentro del 'Centro Urbano', destacando su papel como el principal 'hub' de movilidad del sistema.
+
 ![Mapa de calor](images/mapa_calor.png)
+
 **Figura 32: Mapa de Calor.** Este mapa confirma visualmente la alta concentración de viajes en los clusters del centro (especialmente Suroeste), justificando la necesidad de optimizar la distribución de bicicletas en esa zona.
 
 ### Archivos Completos
