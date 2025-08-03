@@ -17,7 +17,7 @@
 ## Cargo
 En este proyecto, mis responsabilidades principales fueron el trabajo técnico en la clusterización geoespacial y el enriquecimiento del dataset. Esto incluyó la experimentación y evaluación de diferentes algoritmos (K-Means, DBSCAN y Jerárquico) para encontrar el modelo más adecuado, así como el desarrollo del código principal para el análisis.
 
-![Mapa de Porcentaje de viajes entre clusters](images/%viajes.png)
+![Mapa de Porcentaje de viajes entre clusters](images/viajes.png)
 ![Mapa de calor](images/mapa_calor.png)
 
 ### Archivos Completos
